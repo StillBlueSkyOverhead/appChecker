@@ -1,0 +1,18 @@
+# Timeout (in seconds)
+3
+
+# Correct answer:
+#   - p - sum of sub-array
+-4
+#   - q - number of items in sub-array
+3
+
+# Program input:
+#   - n - number of items in the array
+5
+#   - n items
+-2
+-1
+-2
+-1
+-2
